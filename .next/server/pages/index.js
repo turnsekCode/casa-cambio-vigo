@@ -293,7 +293,7 @@ const Breadcrumbs = ()=>{
             /*#__PURE__*/ jsx_runtime_.jsx("a", {
                 href: "https://quickgold.es/casa-cambio-vigo/",
                 title: "Ir a casa cambio vigo",
-                children: "Casa Cambio vigo"
+                children: "Casa Cambio Vigo"
             })
         ]
     });
@@ -1396,14 +1396,14 @@ const Section_uno = ()=>{
             /*#__PURE__*/ jsx_runtime_.jsx("div", {
                 className: (section_uno_module_default()).bloqueDer,
                 children: width <= 610 ? /*#__PURE__*/ jsx_runtime_.jsx("img", {
-                    src: "/vigo_mobil.webp",
-                    alt: "Casas de cambio vigo",
+                    src: "/divisa-mobil.webp",
+                    alt: "Casas de cambio Vigo",
                     className: (section_uno_module_default()).madridMobil,
                     width: 290,
                     height: 220
                 }) : /*#__PURE__*/ jsx_runtime_.jsx("img", {
-                    src: "/vigo.webp",
-                    alt: "Casas de cambio vigo",
+                    src: "/divisa.webp",
+                    alt: "Casas de cambio Vigo",
                     className: (section_uno_module_default()).vector,
                     width: 480,
                     height: 364

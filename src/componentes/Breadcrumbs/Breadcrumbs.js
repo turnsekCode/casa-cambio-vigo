@@ -15,7 +15,7 @@ const Breadcrumbs = () => {
         href="https://quickgold.es/casa-cambio-vigo/"
         title="Ir a casa cambio vigo"
       >
-        Casa Cambio vigo
+        Casa Cambio Vigo
       </a>
     </div>
   );

@@ -39,16 +39,16 @@ const Section_uno = () => {
       <div className={styles.bloqueDer}>
         {width <= 610 ? (
           <img
-            src="/vigo_mobil.webp"
-            alt="Casas de cambio vigo"
+            src="/divisa-mobil.webp"
+            alt="Casas de cambio Vigo"
             className={styles.madridMobil}
             width={290}
             height={220}
           />
         ) : (
           <img
-            src="/vigo.webp"
-            alt="Casas de cambio vigo"
+            src="/divisa.webp"
+            alt="Casas de cambio Vigo"
             className={styles.vector}
             width={480}
             height={364}
